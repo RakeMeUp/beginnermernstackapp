@@ -1,0 +1,10 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header button{
+    font-size: 30px;
+    background-color: black;
+    border: 1px white solid;
+}   
